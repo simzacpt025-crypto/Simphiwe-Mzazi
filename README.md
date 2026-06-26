@@ -10,4 +10,4 @@ I'm building my skills in QA and software testing. I enjoy finding bugs and maki
 
 ## Portfolio Projects
 
-- [API Testing - Restful Booker](https://github.com/simzacpt025-crypto/API-Testing-Restful-Booker/api-testing-restful-booker) - API testing with Postman covering authentication, CRUD operations, and negative tests.
+- [API Testing - Restful Booker](https://github.com/simzacpt025-crypto/API-Testing-Restful-Booker) - API testing with Postman covering authentication, CRUD operations, and negative tests.
