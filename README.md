@@ -7,6 +7,8 @@ I'm building my skills in QA and software testing. I enjoy finding bugs and maki
 - Postman
 - Git
 - API Testing
+- Node.js
+- TypeScript
 
 ## Portfolio Projects
 
